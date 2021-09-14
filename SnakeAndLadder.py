@@ -1,3 +1,4 @@
+#This is my project
 from PIL import Image
 import random
 end=100
